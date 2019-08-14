@@ -1,7 +1,7 @@
 ﻿{
   "AppSettings": {
     "SiteTitle": "ASP.NET MVC Music Store",
-    "CacheDbResults": false
+    "CacheDbResults": true
   },
   "DefaultAdminUsername": "Administrator@test.com",
   "DefaultAdminPassword": "YouShouldChangeThisPassword1!",
